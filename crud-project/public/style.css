@@ -1,0 +1,8 @@
+textarea {
+  resize: none;
+}
+
+.detail, .edit {
+	width: 30em;
+	margin: auto;
+}
